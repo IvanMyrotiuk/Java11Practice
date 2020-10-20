@@ -2,7 +2,7 @@ HELP.md
 target/
 .idea
 *.iws
-*.imrrrl
+*.iml
 *.ipr
 workspace.xml
 tasks.xml
